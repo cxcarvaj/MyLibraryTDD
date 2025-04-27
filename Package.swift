@@ -20,7 +20,8 @@ let package = Package(
         .testTarget(
             name: "MyLibraryTDDTests",
             dependencies: ["MyLibraryTDD"],
-            resources: [.copy("Resources/scoresdatatest.json")]
+            resources: [.copy("Resources/scoresdatatest.json"),
+                        .copy("Resources/EmpleadosTesting.json")]
         ),
     ]
 )

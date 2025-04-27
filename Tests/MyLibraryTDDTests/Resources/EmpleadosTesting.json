@@ -1,0 +1,434 @@
+[
+  {
+    "email": "fhatrick58@psu.edu",
+    "avatar": "https://robohash.org/optioculpaquia.png",
+    "lastName": "Hatrick",
+    "firstName": "Friedrick",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "address": "5138 Susan Terrace",
+    "username": "fhatrick58",
+    "zipcode": "21051 CEDEX",
+    "department": {
+      "id": 8,
+      "name": "Research and Development"
+    },
+    "id": 189
+  },
+  {
+    "department": {
+      "id": 8,
+      "name": "Research and Development"
+    },
+    "lastName": "Luno",
+    "username": "flunojg",
+    "firstName": "Falito",
+    "email": "flunojg@thetimes.co.uk",
+    "zipcode": "",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "id": 701,
+    "address": "95 Little Fleur Plaza",
+    "avatar": "https://robohash.org/quistemporequia.png"
+  },
+  {
+    "email": "mboater9y@about.me",
+    "avatar": "https://robohash.org/distinctioodioexercitationem.png",
+    "lastName": "Boater",
+    "firstName": "Murielle",
+    "gender": {
+      "gender": "Female",
+      "id": 2
+    },
+    "address": "1944 Bayside Junction",
+    "username": "mboater9y",
+    "zipcode": "188668",
+    "department": {
+      "id": 10,
+      "name": "Services"
+    },
+    "id": 359
+  },
+  {
+    "department": {
+      "id": 10,
+      "name": "Services"
+    },
+    "lastName": "Braunle",
+    "username": "abraunlenf",
+    "firstName": "Augy",
+    "email": "abraunlenf@dmoz.org",
+    "zipcode": "",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "id": 844,
+    "address": "8676 Oneill Parkway",
+    "avatar": "https://robohash.org/nulladucimusmagni.png"
+  },
+  {
+    "email": "antonia@perez.com",
+    "avatar": null,
+    "lastName": "P\u00e9rez",
+    "firstName": "Antonia",
+    "gender": {
+      "gender": "Female",
+      "id": 2
+    },
+    "address": "Madrid",
+    "username": "to\u00f1itaPerez",
+    "zipcode": "22341",
+    "department": {
+      "id": 12,
+      "name": "Training"
+    },
+    "id": 1034
+  },
+  {
+    "email": "gcorrisme@soundcloud.com",
+    "avatar": "https://robohash.org/delenitiautqui.png",
+    "lastName": "Corris",
+    "firstName": "Georges",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "address": "027 Talisman Avenue",
+    "username": "gcorrisme",
+    "zipcode": "394 03",
+    "department": {
+      "id": 12,
+      "name": "Training"
+    },
+    "id": 807
+  },
+  {
+    "department": {
+      "id": 3,
+      "name": "Engineering"
+    },
+    "lastName": "Jozefiak",
+    "username": "sjozefiak4y",
+    "firstName": "Shepperd",
+    "email": "sjozefiak4y@ocn.ne.jp",
+    "zipcode": "",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "id": 179,
+    "address": "11582 Atwood Center",
+    "avatar": "https://robohash.org/reiciendisdoloremquedeserunt.png"
+  },
+  {
+    "department": {
+      "id": 3,
+      "name": "Engineering"
+    },
+    "lastName": "Fevers",
+    "username": "lfevershj",
+    "firstName": "Lexy",
+    "email": "lfevershj@mozilla.org",
+    "zipcode": "",
+    "gender": {
+      "gender": "Female",
+      "id": 2
+    },
+    "id": 632,
+    "address": "23363 Mallard Hill",
+    "avatar": "https://robohash.org/quaerataliquamodio.png"
+  },
+  {
+    "department": {
+      "id": 5,
+      "name": "Legal"
+    },
+    "lastName": "Connold",
+    "username": "vconnold3v",
+    "firstName": "Vinny",
+    "email": "vconnold3v@columbia.edu",
+    "zipcode": "124 54",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "id": 140,
+    "address": "67 Trailsway Parkway",
+    "avatar": "https://robohash.org/quasibeataereprehenderit.png"
+  },
+  {
+    "email": "dledstoneg1@furl.net",
+    "avatar": "https://robohash.org/doloremsedfuga.png",
+    "lastName": "Ledstone",
+    "firstName": "Drusi",
+    "gender": {
+      "gender": "Female",
+      "id": 2
+    },
+    "address": "33 David Park",
+    "username": "dledstoneg1",
+    "zipcode": "64240-000",
+    "department": {
+      "id": 5,
+      "name": "Legal"
+    },
+    "id": 578
+  },
+  {
+    "address": "843 Kennedy Alley",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "username": "fmaton7l",
+    "lastName": "Maton",
+    "avatar": "https://robohash.org/eaametquia.png",
+    "department": {
+      "id": 9,
+      "name": "Sales"
+    },
+    "id": 274,
+    "email": "fmaton7l@smh.com.au",
+    "firstName": "Farlay",
+    "zipcode": "2505"
+  },
+  {
+    "address": "59110 Village Green Hill",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "username": "bempsp4",
+    "lastName": "Emps",
+    "avatar": "https://robohash.org/voluptatemillumfugiat.png",
+    "department": {
+      "id": 9,
+      "name": "Sales"
+    },
+    "id": 905,
+    "email": "bempsp4@mtv.com",
+    "firstName": "Brigham",
+    "zipcode": "ZBG"
+  },
+  {
+    "address": "28591 Birchwood Parkway",
+    "gender": {
+      "gender": "Female",
+      "id": 2
+    },
+    "username": "ccastellinoaf",
+    "lastName": "Castellino",
+    "avatar": "https://robohash.org/verovoluptatevoluptatum.png",
+    "department": {
+      "id": 6,
+      "name": "Marketing"
+    },
+    "id": 376,
+    "email": "ccastellinoaf@woothemes.com",
+    "firstName": "Cathe",
+    "zipcode": "8600"
+  },
+  {
+    "email": "amarusik3z@wikia.com",
+    "avatar": "https://robohash.org/nesciuntminimain.png",
+    "lastName": "Marusik",
+    "firstName": "Ashlee",
+    "gender": {
+      "gender": "Female",
+      "id": 2
+    },
+    "address": "7 Forest Dale Hill",
+    "username": "amarusik3z",
+    "zipcode": "",
+    "department": {
+      "id": 6,
+      "name": "Marketing"
+    },
+    "id": 144
+  },
+  {
+    "avatar": "https://robohash.org/ealiberosed.png",
+    "username": "iminors2v",
+    "firstName": "Ikey",
+    "department": {
+      "name": "Human Resources",
+      "id": 4
+    },
+    "zipcode": "9675-165",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "id": 104,
+    "address": "43 Lunder Court",
+    "lastName": "Minors",
+    "email": "iminors2v@merriam-webster.com"
+  },
+  {
+    "address": "55 Hintze Way",
+    "gender": {
+      "gender": "Female",
+      "id": 2
+    },
+    "username": "cmillwarddi",
+    "lastName": "Millward",
+    "avatar": "https://robohash.org/aliasinest.png",
+    "department": {
+      "id": 4,
+      "name": "Human Resources"
+    },
+    "id": 487,
+    "email": "cmillwarddi@ocn.ne.jp",
+    "firstName": "Corina",
+    "zipcode": ""
+  },
+  {
+    "department": {
+      "id": 7,
+      "name": "Product Management"
+    },
+    "lastName": "Picapiedra",
+    "username": "pedropicapiedra2000",
+    "firstName": "Pedro",
+    "email": "pedro@picapiedra.com",
+    "zipcode": "28950",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "id": 1026,
+    "address": "Calle Dos Tres",
+    "avatar": null
+  },
+  {
+    "department": {
+      "id": 7,
+      "name": "Product Management"
+    },
+    "lastName": "Bourget",
+    "username": "tbourget2d",
+    "firstName": "Tersina",
+    "email": "tbourget2d@macromedia.com",
+    "zipcode": "",
+    "gender": {
+      "gender": "Female",
+      "id": 2
+    },
+    "id": 86,
+    "address": "10 Iowa Circle",
+    "avatar": "https://robohash.org/doloremporroad.png"
+  },
+  {
+    "address": "29736 Steensland Trail",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "username": "tlawdham5f",
+    "lastName": "Lawdham",
+    "avatar": "https://robohash.org/eaeostenetur.png",
+    "department": {
+      "id": 11,
+      "name": "Support"
+    },
+    "id": 196,
+    "email": "tlawdham5f@usda.gov",
+    "firstName": "Tarrance",
+    "zipcode": ""
+  },
+  {
+    "department": {
+      "name": "Support",
+      "id": 11
+    },
+    "lastName": "Thunnercliff",
+    "username": "cthunnercl",
+    "firstName": "Currie",
+    "email": "cthunnercliffr@theatlantic.com",
+    "zipcode": "00000",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "id": 28,
+    "address": "2 Summit Trail",
+    "avatar": "https://robohash.org/ipsamdoloribusaccusamus.png"
+  },
+  {
+    "email": "ebewickaw@mysql.com",
+    "avatar": "https://robohash.org/idipsamvitae.png",
+    "lastName": "Bewick",
+    "firstName": "Ellis",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "address": "7 Esch Drive",
+    "username": "ebewickaw",
+    "zipcode": "",
+    "department": {
+      "id": 2,
+      "name": "Business Development"
+    },
+    "id": 393
+  },
+  {
+    "email": "mcantero2x@sogou.com",
+    "avatar": "https://robohash.org/aliasnumquamrerum.png",
+    "lastName": "Cantero",
+    "firstName": "Marlowe",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "address": "33 Bobwhite Hill",
+    "username": "mcantero2x",
+    "zipcode": "",
+    "department": {
+      "id": 2,
+      "name": "Business Development"
+    },
+    "id": 106
+  },
+  {
+    "address": "26 Hazelcrest Point",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "username": "shimsworth7b",
+    "lastName": "Himsworth",
+    "avatar": "https://robohash.org/laudantiumullammodi.png",
+    "department": {
+      "name": "Accounting",
+      "id": 1
+    },
+    "id": 264,
+    "email": "shimsworth7b@mtv.com",
+    "firstName": "Sunny",
+    "zipcode": ""
+  },
+  {
+    "email": "bnobrigagh@mayoclinic.com",
+    "avatar": "https://robohash.org/quiarepellendusaut.png",
+    "lastName": "Nobriga",
+    "firstName": "Byrann",
+    "gender": {
+      "gender": "Male",
+      "id": 1
+    },
+    "address": "689 Grim Avenue",
+    "username": "bnobrigagh",
+    "zipcode": "42-454",
+    "department": {
+      "id": 1,
+      "name": "Accounting"
+    },
+    "id": 594
+  }
+]
